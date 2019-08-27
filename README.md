@@ -7,6 +7,7 @@ Code samples by me, from time 2 time I will add samples here.
 Table of contents
 
 * [PHP](#PHP)
+* [Python](#Python)
 
 * [License](#License)
 
@@ -15,6 +16,13 @@ Table of contents
 
 - Yaml: add include ability
 - Yaml: add "logic"
+
+
+## Python
+
+- [Nice beginner quickstart](https://code.visualstudio.com/docs/python/python-tutorial) using [VS Code](https://code.visualstudio.com)
+- [Nice django quickstart](https://code.visualstudio.com/docs/python/tutorial-django) using [VS Code](https://code.visualstudio.com)
+  - [django](https://www.djangoproject.com) is a popular py-framwork for web-projects
 
 
 ## License

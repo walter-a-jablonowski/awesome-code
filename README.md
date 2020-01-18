@@ -14,8 +14,46 @@ Table of contents
 
 ## PHP
 
-- Yaml: add include ability
-- Yaml: add "logic"
+### YAML: add include ability
+
+see [parsedown-user-styles](https://github.com/walter-a-jablonowski/parsedown-user-styles)
+
+### YAML: PHP Functions in YML
+
+```yaml
+ANY_KEY: |
+  function() {
+    
+    // my PHP code
+
+    return ...;
+  }
+```
+
+run like
+
+```php
+eval("\$func = $yml[$key];");
+$func();
+
+// or 
+
+($yml[$key])();
+```
+
+### Simple conditions in yml
+
+```yaml
+"@if SPECIAL_STRING":
+  ANY_KEY_: ANY_VALUE
+```
+
+Just solve hard coded
+
+```php
+if( $key == '@if SPECIAL_STRING')
+  // ...
+```
 
 
 ## Python

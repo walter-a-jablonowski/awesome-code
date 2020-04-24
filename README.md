@@ -1,6 +1,6 @@
-# Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Awesome code samples from my collection** *new*
+**Code samples from my collection** *new*
 
 Code samples by me, from time 2 time I will add samples here.
 
@@ -18,7 +18,7 @@ Table of contents
 
 see [parsedown-user-styles](https://github.com/walter-a-jablonowski/parsedown-user-styles)
 
-### YAML: PHP Functions in YML
+### YAML: Save SQL or Functions in YML
 
 ```yaml
 ANY_KEY: |
@@ -57,10 +57,6 @@ if( $key == '@if SPECIAL_STRING')
 
 
 ## Python
-
-- [Nice beginner quickstart](https://code.visualstudio.com/docs/python/python-tutorial) using [VS Code](https://code.visualstudio.com)
-- [Nice django quickstart](https://code.visualstudio.com/docs/python/tutorial-django) using [VS Code](https://code.visualstudio.com)
-  - [django](https://www.djangoproject.com) is a popular py-framwork for web-projects
 
 
 ## License
